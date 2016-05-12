@@ -1,5 +1,5 @@
 {
-    "name": "pauly4it/laraturk",
+    "name": "andyblackwell/laraturk",
     "description": "Provides a Laravel 5 package to communicate with the Amazon Mechanical Turk API.",
     "keywords": ["laravel", "amazon mechanical turk", "turk", "api"],
     "homepage": "https://github.com/pauly4it/laraturk",  
